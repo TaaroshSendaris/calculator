@@ -6,12 +6,13 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
+pnpm-lock.yaml
 node_modules
 dist
 dist-ssr
 *.local
-
+vite.config.js
+public
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
